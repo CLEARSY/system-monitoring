@@ -17,8 +17,8 @@ The approach builds upon existing certified assets, ensuring deployability and c
  
 This repository includes:
 - 🧠 B Projects (.arc files): Formal models developed in Atelier B, directly usable with the CSSP.
-The abstract machine logic and the implementation logic_i contain the specification used in the article.
-These examples mirror the case study presented in the paper.
+    - The abstract machine logic and the implementation logic_i contain the specification used in the article.
+    - These examples mirror the case study presented in the paper.
 - 🛠 Installer for the latest version of the CLEARSY Safety Platform (not yet publicly available on the CLEARSY website).
 Provided here for reviewers and replicability purposes.
  
