@@ -20,7 +20,7 @@ This repository includes:
     - The abstract machine logic and the implementation logic_i contain the specification used in the article.
     - These examples mirror the case study presented in the paper.
 - 🛠 Installer for the latest version of the CLEARSY Safety Platform (not yet publicly available on the CLEARSY website).
-Provided here for reviewers and replicability purposes.
+    - Provided here for reviewers and replicability purposes.
  
 📄 Note: A detailed explanation of the methodology and its rationale can be found in the article. The case study presented in the models illustrates how CBTC system safety requirements can be specified and monitored using the CSSP.
 
